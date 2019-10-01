@@ -1,0 +1,2 @@
+# bolt
+Linux Óráról
